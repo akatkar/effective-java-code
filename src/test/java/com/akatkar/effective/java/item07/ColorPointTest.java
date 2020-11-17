@@ -30,7 +30,5 @@ public class ColorPointTest {
         assertTrue(p1.equals(p2));
         assertTrue(p2.equals(p3));
         assertTrue(p1.equals(p3));
-        
-        
     }
 }
